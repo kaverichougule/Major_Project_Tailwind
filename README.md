@@ -1,5 +1,5 @@
-Hosted Link: https://kaverichougule.github.io/Major_Project_Tailwind/dist/index.html
-Video Link: 
+Hosted Link: https://kaverichougule.github.io/Major_Project_Tailwind/dist/index.html <br>
+Video Link: https://drive.google.com/file/d/1wM81fFZY3We9MqdJGpHFA6WO0y4HgU2S/view?usp=sharing <br>
 
 Navbar: <br>
 ![image](https://github.com/kaverichougule/Major_Project_Tailwind/assets/101037685/91521534-ff84-42b5-958a-226acf4eb548)
